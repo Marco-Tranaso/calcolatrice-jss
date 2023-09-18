@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "document": "^0.4.7",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "node-localstorage": "^2.2.1",
+    "path": "^0.12.7"
+  },
+  "name": "login-e-registrazione",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
